@@ -1,0 +1,4 @@
+- 👋 Hi, I’m currently working on a project for Qinghai Xinfadi.
+- 👀 The project is about online trading ecommerce platform specifically under agricultural & sideline products category.
+- 🌱 I’m interested in discussing how could this ecommerce platform develop in the future, in terms fo the technological perspectives.
+- 📫 You could reach me @ ytql2018@126.com
